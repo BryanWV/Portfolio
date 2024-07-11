@@ -2061,3 +2061,4 @@
 /home/bwilches/Documents/dotnet Portfolio/Portfolio/Portfolio/obj/Debug/net8.0/refint/Portfolio.dll
 /home/bwilches/Documents/dotnet Portfolio/Portfolio/Portfolio/obj/Debug/net8.0/Portfolio.pdb
 /home/bwilches/Documents/dotnet Portfolio/Portfolio/Portfolio/obj/Debug/net8.0/ref/Portfolio.dll
+/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/Portfolio.sourcelink.json
