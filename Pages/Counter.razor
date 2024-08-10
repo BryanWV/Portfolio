@@ -4,15 +4,25 @@
 
 <h1>Counter</h1>
 
-<p role="status">Current count: @currentCount</p>
+<p role="status">Current count: @n</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="Fibonnaci">Click me</button>
 
-@code { // This is a code directive, where you can add C# code in it
-    private int currentCount = 0;
+@code { // This is a code directive, where you can add C# code in it 
+// TODO: Make a code to make a count with Fibonnaci instead of normal counting
 
-    private void IncrementCount()
+    private static bool _hasRun=false;
+    public static int Fibonnaci()
     {
-        currentCount++;
+        if (!_hasRun)
+        {
+            int a=0, b=1;
+        }
+        _hasRun = true;
+
+        int n = a + b;
+        a=b;
+        b=n;
+        return n;
     }
 }
