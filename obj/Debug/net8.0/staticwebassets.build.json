@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8f74DnjDCenofvKYuVUy/d/oK01CBBFHuR8x4xIx700=",
+  "Hash": "EXkymujd50zTjRp5Wwjjwd0z6vCxuxQOVbDxnGJesLI=",
   "Source": "Portfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.js.map"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.js.map"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.6.bbi28q7883.js",
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.7.7vwgws5og8.js",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.6.bbi28q7883.js",
+      "RelativePath": "_framework/dotnet.native.8.0.7.7vwgws5og8.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.native.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.native.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.native.wasm"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.native.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.6.ekzkt04n7g.js",
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.7.coi1zrrn86.js",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.6.ekzkt04n7g.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.7.coi1zrrn86.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.runtime.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.runtime.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/dotnet.runtime.js.map"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/icudt_CJK.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/icudt_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/icudt_EFIGS.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.6/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.7/runtimes/browser-wasm/native/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm",
@@ -3912,25 +3912,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/0bhlqaxxzv.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
-    },
-    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/0br6sztpgx.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -3967,6 +3948,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Dynamic.Runtime.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/0h3kyfxvsc.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/0zszmrl0zj.gz",
@@ -4596,6 +4596,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Numerics.Vectors.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/6rj7ygmp3p.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
+    },
+    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/6tvs9u3e4j.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -4824,6 +4843,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Reflection.Metadata.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/7vwgws5og8.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.7.7vwgws5og8.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.7.7vwgws5og8.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.7.7vwgws5og8.js"
+    },
+    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/7zwatx3pwe.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -4900,7 +4938,7 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebProxy.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/8rfchloafc.gz",
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/94u2qjhog3.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
@@ -5033,6 +5071,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.ServiceModel.Web.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/au8blbpna2.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
+    },
+    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/b8rqb1hgaf.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -5050,25 +5107,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Serialization.Xml.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/bbi28q7883.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.6.bbi28q7883.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.6.bbi28q7883.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.6.bbi28q7883.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/been5jbp0a.gz",
@@ -5183,6 +5221,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Globalization.Calendars.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/coi1zrrn86.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.7.coi1zrrn86.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.7.coi1zrrn86.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.7.coi1zrrn86.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/cqhdy7f175.gz",
@@ -5375,25 +5432,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Net.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/ekzkt04n7g.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.6.ekzkt04n7g.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.6.ekzkt04n7g.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.6.ekzkt04n7g.js"
-    },
-    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/ex2txoeo9n.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -5563,6 +5601,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.IO.MemoryMappedFiles.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/gm4gtcnkb9.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/gx57ckavfr.gz",
@@ -5869,25 +5926,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Collections.NonGeneric.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/k8l09jvcrk.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
-    },
-    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/kauu3nl20h.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -5945,6 +5983,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Diagnostics.Debug.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/kmnw4vj2i9.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
+    },
+    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/krngunlw02.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -5981,44 +6038,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/l1hp69nv4k.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/lfndb72n5b.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/lgyrvkwtq6.gz",
@@ -6665,25 +6684,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Linq.Parallel.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/s20vfjur9j.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/s6a8e1iduo.gz",
@@ -7560,6 +7560,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Formats.Asn1.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/ypv5qmpnw7.gz",
+      "SourceId": "Portfolio",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
+    },
+    {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/yzcu0kblr0.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
@@ -7596,25 +7615,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/System.Transactions.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/z90d92mgqc.gz",
-      "SourceId": "Portfolio",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
     },
     {
       "Identity": "/home/bwilches/Documents/dotnet Portfolio/Portfolio/obj/Debug/net8.0/compressed/zcx34fibjh.gz",

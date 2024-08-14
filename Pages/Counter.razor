@@ -1,28 +1,28 @@
 ﻿@page "/counter"
+@using System.Numerics
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
-
-<p role="status">Current count: @n</p>
-
-<button class="btn btn-primary" @onclick="Fibonnaci">Click me</button>
 
 @code { // This is a code directive, where you can add C# code in it 
-// TODO: Make a code to make a count with Fibonnaci instead of normal counting
 
-    private static bool _hasRun=false;
-    public static int Fibonnaci()
+
+    private int previousValue = 0;
+    private int currentValue = 1;
+    private int nextValue = 0;
+        private void IncrementFibonacci()
     {
-        if (!_hasRun)
-        {
-            int a=0, b=1;
-        }
-        _hasRun = true;
+        nextValue = previousValue + currentValue;
+        previousValue = currentValue;
+        currentValue = nextValue;
 
-        int n = a + b;
-        a=b;
-        b=n;
-        return n;
     }
+
 }
+
+
+<h4>Counter</h4>
+
+<p role="status">Current count: @previousValue</p>
+
+<button class="btn btn-primary" @onclick="IncrementFibonacci">Click me</button>

@@ -101,3 +101,8 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+.responsive { /*Selector created to use with images */
+    width: 100%;
+    height: auto;
+  }
+  
